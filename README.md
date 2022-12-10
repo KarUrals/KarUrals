@@ -1,16 +1,14 @@
-### Hi there 👋
+## Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20">
 
-<!--
-**KarUrals/KarUrals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Andrey Karelskiy - Java Developer from Russia 🇷🇺 At present live in Cyprus 🇨🇾
 
-Here are some ideas to get you started:
+🧠 currently learning Java in [Hexlet](hexlet.io)  
+📫 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Karelskiy_A)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](karelskiy.a@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([karelskiy.a@gmail.com](https://www.linkedin.com/in/andrey-karelskiy/))
+***
+#### What I have already worked with:
+
+[![My Skills](https://skillicons.dev/icons?i=java,idea,git,githubactions,gradle,html,css)](https://skillicons.dev)
