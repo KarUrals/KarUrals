@@ -3,7 +3,7 @@
 ### I'm Andrey Karelskiy - Java Developer from Russia 🇷🇺 At present live in Cyprus 🇨🇾
 
 🧠 currently learning Java in [Hexlet](https://hexlet.io)  
-📫 How to reach me:
+📫 how to reach me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Karelskiy_A)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karelskiy.a@gmail.com)
