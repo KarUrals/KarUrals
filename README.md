@@ -1,6 +1,6 @@
 ## Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20">
 
-### I'm Andrey Karelskiy - Java Developer from Russia 🇷🇺 At present live in Cyprus 🇨🇾
+### I'm Andrey Karelskiy - Junior Java Developer from Russia
 
 🧠 currently learning Java in [Hexlet](https://hexlet.io)  
 📫 how to reach me:
