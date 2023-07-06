@@ -1,8 +1,7 @@
 ## Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20">
 
-### I'm Andrey Karelskiy - Junior Java Developer
+### I'm Andrey Karelskiy - Java enthusiast
 
-🧠 currently learning Java in [Hexlet](https://hexlet.io)  
 📫 how to reach me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Karelskiy_A)
